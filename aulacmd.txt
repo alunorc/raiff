@@ -1,0 +1,32 @@
+entrar em pasta
+cd
+
+sair de pasta
+cd ..
+
+criar pasta
+mkdir
+
+limpar tela
+cls
+
+criar arquivo docx
+echo. > testearquivo.docx
+
+mover pasta
+move <arquivo> <destino>
+
+copiar arquivo
+copy <nomedoarquivo> <nomedacopia>
+
+deletar arquivo
+del <arquivo>
+
+deletar pasta
+rmdir
+
+abrir documento
+type
+
+renomear arquivo
+ren

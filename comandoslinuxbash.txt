@@ -1,0 +1,11 @@
+abrir documento
+cat
+
+renomear arquivo
+mv
+
+deletar arquivo
+rm
+
+deletar pasta
+rmdir
